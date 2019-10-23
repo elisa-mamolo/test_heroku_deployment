@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kittens_mern_deploy_test.iml" filepath="$PROJECT_DIR$/.idea/kittens_mern_deploy_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mandatory_do_together - mongoose/.idea/mandatory_do_together - mongoose.iml" filepath="$PROJECT_DIR$/../mandatory_do_together - mongoose/.idea/mandatory_do_together - mongoose.iml" />
+    </modules>
+  </component>
+</project>
